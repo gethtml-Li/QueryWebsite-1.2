@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+html,body,#app{
+    height: 100%;
+}
+* ::-webkit-scrollbar {
+  width: 5px;
+  background-color: white;
+}
+* ::-webkit-scrollbar-track {
+ display: none;
+}
+* ::-webkit-scrollbar-thumb {
+
+      border-radius: 20px;
+    background-color: rgb(135, 9, 119);
+} 
